@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FCarpio03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=40e0d0&text_color=ffffff" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=440&lines=Always+learning;Always+coding;:+D" />
 </p>
