@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#40e0d0;">I'm Franklin Carpio</h1>
+<h1 align="center" style="color:#40e0d0;">I'm Franklin Carpio :D</h1>
 <h3 align="center" style="color:#40e0d0;">Frontend & Database Developer</h3>
 
 <p align="center">
