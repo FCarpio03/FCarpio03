@@ -1,4 +1,6 @@
-<h1 align="center" style="color:#40e0d0;">I'm Franklin Carpio :D</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=40E0D0&center=true&vCenter=true&width=440&lines=Hi!+I'm+Franklin+Carpio+:D" />
+</p>
 <h3 align="center" style="color:#40e0d0;">Frontend & Database Developer</h3>
 
 <p align="center">
