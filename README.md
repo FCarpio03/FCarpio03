@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="mailto:fcarpio031203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-40e0d0?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-40e0d0?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/fcarpio03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-40e0d0?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-40e0d0?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://fcarpio03.github.io/FCarpio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-40e0d0?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-40e0d0?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FCarpio03&show_icons=true&hide_border=true&icon_color=40e0d0&title_color=40e0d0&text_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FCarpio03&hide_border=true&background=FFFFFF00&stroke=40e0d0&ring=40e0d0&fire=40e0d0&currStreakLabel=40e0d0" width="48%](https://github-readme-streak-stats.herokuapp.com/?user=FCarpio03&theme=tokyonight&hide_border=true&background=00000000&stroke=40e0d0&ring=40e0d0&fire=40e0d0&currStreakLabel=40e0d0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FCarpio03&theme=tokyonight&hide_border=true&background=00000000&stroke=40e0d0&ring=40e0d0&fire=40e0d0&currStreakLabel=40e0d0" width="48%" />
 </p>
 
 ---
