@@ -3,15 +3,16 @@
 
 <p align="center">
   <a href="mailto:fcarpio031203@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=black&labelColor=40e0d0" />
+    <img src="https://img.shields.io/badge/Email-40e0d0?style=for-the-badge&labelColor=40e0d0&color=black&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/fcarpio03/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=40e0d0" />
+    <img src="https://img.shields.io/badge/LinkedIn-40e0d0?style=for-the-badge&labelColor=40e0d0&color=black&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://fcarpio03.github.io/FCarpio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=black&labelColor=40e0d0" />
+    <img src="https://img.shields.io/badge/Portfolio-40e0d0?style=for-the-badge&labelColor=40e0d0&color=black&logo=github&logoColor=black" />
   </a>
 </p>
+
 
 
 ---
